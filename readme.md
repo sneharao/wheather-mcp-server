@@ -1,9 +1,5 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
-</p>
 
-<h3 align="center">undefined</h3>
+<h3 align="center">MCP Weather Server</h3>
 
 <div align="center">
 
@@ -61,7 +57,9 @@ What things you need to install the software and how to install them.
 Claude Desktop (https://claude.ai/download)
 Node version 20 and above (https://nodejs.org/en/download)
 
-### Installing
+### Usage
+<img width="758" alt="Screenshot 2025-04-13 at 07 39 51" src="https://github.com/user-attachments/assets/cf9c2b49-3911-42d0-a33e-7adaa1a49b04" />
+
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
